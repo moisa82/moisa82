@@ -4,7 +4,7 @@
 <!-- **Mjackie82/Mjackie82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 Atualmente estou em busca de melhorar minha habilidades e áreas do conhecimento
-- 🌱 Estou aprendendo Angular e node
+- 🌱 Estou aprendendo Javascript e UI/UX
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mjackie82&layout=compact&langs_count=7&theme=dark"/>
   
