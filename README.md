@@ -6,8 +6,8 @@
 - 🌱 Currently learning about react and javaScript.
 - 📬 How to reach me: EMAIL: moisesazevedobezerra82@gmail.com LINKEDIN: https://www.linkedin.com/in/moisesazevedo82/
 
-<img height="180em" src="https://readme-stats-ruby-one.vercel.app/api/top-langs/?username=Mjackie82&layout=compact&langs_count=7&theme=dark"/>
-
+<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mjackie82&theme=react&line_height=40&hide=css"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mjackie82&theme=react&line_height=40&hide=css"/> </a>
  
   
 <div style="display: inline_block"><br>
