@@ -6,7 +6,7 @@
 - 🌱 Currently learning about vue, node and javaScript.
 - 📬 How to reach me: EMAIL: moisesazevedobezerra82@gmail.com LINKEDIN: https://www.linkedin.com/in/moisesazevedo82/
 
-<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mjackie82&theme=react&line_height=40&hide=css"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisa82&theme=react&line_height=40&hide=css"/> </a>
 
  
   
