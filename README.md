@@ -9,9 +9,3 @@
 <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisa82&theme=react&line_height=40&hide=css"/> </a>
 
  
-  
-<div style="display: inline_block"><br>
- <img align="center" alt="Moises-VUE" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
- <img align="center" alt="Moises-REACT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
- <img align="center" alt="Moises-TAILWINDCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
-</div>
